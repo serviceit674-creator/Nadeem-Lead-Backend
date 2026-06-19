@@ -16,8 +16,8 @@ app.use(express.urlencoded({ extended: true }))
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://www.leadora.space",
-  "https://leadora.space",
+  "https://nadeem.leadora.space",
+  "https://www.nadeem.leadora.space",
   
 ];
 
